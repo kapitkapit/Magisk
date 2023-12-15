@@ -1,4 +1,4 @@
-# Magisk Changelog
+# Magisk Changelog esc
 
 ### v26.4
 
@@ -797,6 +797,8 @@
 - Remove sepolicy patches that uses SuperSU's supolicy tool; it is now using a minimal set of modifications
 - Removed Magisk Manager in Magisk patch, it is now included in Magisk phh's superuser only
 
-### v1
+### v1 
+Control + Shift + m
 
 - Initial release
+tab
