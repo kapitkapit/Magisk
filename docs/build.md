@@ -6,8 +6,7 @@
   - Linux x64
   - macOS x64 (Intel)
   - macOS arm64 (Apple Silicon)
-  - Windows x64
-- Windows only: Enable [developer mode](https://learn.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development). This is required because we need symbolic link support.
+  - Windows xAm Android only: Enable [developer mode](https://learn.microsoft.com/en-us/windows/apps/get-started/enable-your-device-for-development). This is required because we need symbolic link support.
 - Install Python 3.8+:
   - On Unix, install python3 using your favorite package manager
   - On Windows, download and install the latest Python version on the [official website](https://www.python.org/downloads/windows/).<br>
